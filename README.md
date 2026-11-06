@@ -32,3 +32,9 @@ Buka http://localhost:3000
 - DELETE `/api/produk/:id`
 
 Field JSON untuk POST dan PUT: `nama`, `kategori`, `harga`, `jadwal`, `jam`.
+
+<br/>
+Hasil Demo:
+![alt text](image.png)
+
+![alt text]({BCB3EDC1-90D4-4F08-968B-A75FAF1D2395}.png)
